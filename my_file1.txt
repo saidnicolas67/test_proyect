@@ -1,0 +1,5 @@
+Hola mundo desde un fichero.
+print("hola mundo")
+a = 5
+b= a+5
+print(f" mi variable es (b)")
